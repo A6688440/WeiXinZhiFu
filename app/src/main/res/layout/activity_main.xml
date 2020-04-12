@@ -23,16 +23,23 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text="sssd"
+            android:text="ssssssd"
             android:textColor="@color/colorPrimary"
             android:textSize="24sp" />
-
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="sjc"
             android:layout_gravity="center"
             android:textSize="24sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="QQQQQQQQQQQQQQQQQQQQQQ"
+            android:textSize="24sp" />
+
 
         <TextView
             android:layout_width="wrap_content"
